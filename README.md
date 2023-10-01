@@ -10,7 +10,7 @@ I've penned down my expertise and knowledge in **two books on GIS and Remote Sen
 
 ![Hands-On Geospatial Analysis with R and QGIS: A beginner's guide to manipulating, managing, and analyzing spatial data using R and QGIS 3.2.2](1.png)
 
-![Mastering Geospatial Development with QGIS 3.x: An in-depth guide to becoming proficient in spatial data analysis using QGIS 3.X](2,png)
+![Mastering Geospatial Development with QGIS 3.x: An in-depth guide to becoming proficient in spatial data analysis using QGIS 3.X](2.png)
 
 ## 💼 Professional Experience
 
