@@ -62,7 +62,7 @@ I'm an ardent learner. These days, I'm immersing myself in:
 
 - 💬 Feel free to reach out or check out my projects and publications. I'm always open to discussions, collaborations, or simply a chat about the latest in data science and climate dynamics.
 
-- 📫 [Email](mailto:your_sislam27@mason.edu or shais13irs@gmail.com)
+- 📫 [Email](sislam27@mason.edu or shais13irs@gmail.com)
 - 🔗 [LinkedIn](https://www.linkedin.com/in/shammunul/) ![](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white)
 
 ![Shammun's GitHub stats](https://github-readme-stats.vercel.app/api?username=shammun&show_icons=true&theme=radical)
