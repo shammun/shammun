@@ -1,10 +1,8 @@
-### Hi there 👋
+# Hello, I'm Shammunul! 👋
 
-# Hello, I'm Shammun! 👋
+![Global CO2 Movement](climate_change_map.gif)
 
-![Banner Image or GIF related to Climate Dynamics or Data Science](URL_TO_IMAGE_OR_GIF)
-
-- 🌱 I'm currently diving deep into the world of **Climate Dynamics** as a PhD student at George Mason University. With a foundation in statistics from my undergraduate years and a master's in Climate and Society from Columbia University in the City of New York, I've traversed diverse fields from geospatial data science to being an author.
+- 🌱 I'm currently diving deep into the world of **Climate Dynamics** as a PhD student at George Mason University. With a foundation in statistics from my undergraduate years in Shahjalal University of Science and Technology and a master's in Climate and Society from Columbia University in the City of New York, I've traversed diverse fields from geospatial data science to being an author to a teacher and now back to a student again.
 
 ## 📚 Publications
 
