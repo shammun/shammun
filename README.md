@@ -10,7 +10,7 @@ I've penned down my expertise and knowledge in **two books on GIS and Remote Sen
 
 ![Hands-On Geospatial Analysis with R and QGIS: A beginner's guide to manipulating, managing, and analyzing spatial data using R and QGIS 3.2.2](1.png)
 
-![Mastering Geospatial Development with QGIS 3.x: An in-depth guide to becoming proficient in spatial data analysis using QGIS 3.X](2,png)
+![Mastering Geospatial Development with QGIS 3.x: An in-depth guide to becoming proficient in spatial data analysis using QGIS 3.X](2.png)
 
 ## 💼 Professional Experience
 
@@ -62,7 +62,7 @@ I'm an ardent learner. These days, I'm immersing myself in:
 
 - 💬 Feel free to reach out or check out my projects and publications. I'm always open to discussions, collaborations, or simply a chat about the latest in data science and climate dynamics.
 
-- 📫 [Email](mailto:your_sislam27@mason.edu or shais13irs@gmail.com)
+- 📫 [Email](sislam27@mason.edu or shais13irs@gmail.com)
 - 🔗 [LinkedIn](https://www.linkedin.com/in/shammunul/) ![](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white)
 
 ![Shammun's GitHub stats](https://github-readme-stats.vercel.app/api?username=shammun&show_icons=true&theme=radical)
