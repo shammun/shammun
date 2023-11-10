@@ -1,6 +1,6 @@
 # Hello, I'm Shammunul! 👋
 
-![Global CO2 Movement](climate_change_map.gif)
+![Global CO2 Movement](vorticity_animation3.gif)
 
 - 🌱 I'm currently diving deep into the world of **Climate Dynamics** as a PhD student at George Mason University. With a foundation in statistics from my undergraduate years in Shahjalal University of Science and Technology and a master's in Climate and Society from Columbia University in the City of New York, I've traversed diverse fields from geospatial data science to being an author to a teacher and now back to a student again.
 
